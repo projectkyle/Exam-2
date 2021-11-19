@@ -93,8 +93,15 @@ Date:  11/18/21
 
 
 
-1. According to the crosstabs, it's likely that those with higher levels of education land jobs that offer health insurance. Additionally those who work full time are more likely to recieve health insurance from employers compared to those that work part time.
-2.
+1. According to the crosstabs, it's likely that those with higher levels of education land jobs that offer health insurance. Additionally those who work full 
+time are more likely to recieve health insurance from employers compared to those that work part time. Although there aren't all that many, it'd be better to
+exclude NA, IDK, or refused responses all together. The grouping can be separated as bachlors degree and above as one group and everything below as another. This
+can indicate what value a college degree plays on employment benefits.
+2. The negative coefficients signifiy an inverse relationship between age and having an employer that offers health insurance/benefits for females. Since 30 is on 
+the younger end of the age range, they are more likely to be offered health insurance by their job, which makes sense considering that younger people tend to have 
+less health problems. On the other hand, it's more difficult and expensive to get health care coverage for older folks, so emplyers hiring those on the higher end 
+of the age range may be more hesitant to offer them health insurance. As age increases by each unit, the probability of being offered insurance drops by the
+coefficient.
 3.
 
 #I began by subsetting to people over the age of 25 but under 65 with health insurance, working fulltime in a workplace that does offer health insurance. We would
