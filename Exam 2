@@ -105,7 +105,7 @@ coefficient.
 3.
 
 #I began by subsetting to people over the age of 25 but under 65 with health insurance, working fulltime in a workplace that does offer health insurance. We would
-expect thoseunder 25 to generally be healthy anyway.
+expect those under 25 to generally be healthy anyway.
 
 # My hypothesis is that those with health insurance are more likely to have a higher BMI as age increases, possibly by 8 points or more. This is possibly due to 
 the fact that those with health insurance are going to be more careless with their health, since their medical costs are covered. Additionally, since they are 
